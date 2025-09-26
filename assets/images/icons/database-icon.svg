@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="dbGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B4513"/>
+      <stop offset="100%" stop-color="#DAA520"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="32" cy="16" rx="20" ry="6" fill="url(#dbGradient)"/>
+  <rect x="12" y="16" width="40" height="32" fill="url(#dbGradient)" opacity="0.8"/>
+  <ellipse cx="32" cy="48" rx="20" ry="6" fill="url(#dbGradient)"/>
+  <ellipse cx="32" cy="32" rx="20" ry="6" fill="url(#dbGradient)"/>
+  <ellipse cx="32" cy="16" rx="16" ry="4" fill="#FFFFFF" opacity="0.3"/>
+</svg>
